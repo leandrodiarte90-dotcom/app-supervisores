@@ -1,0 +1,8 @@
+supervisores.db
+__pycache__/
+*.pyc
+evidencias_supervisores/*
+!evidencias_supervisores/.gitkeep
+exports_supervisores/*
+!exports_supervisores/.gitkeep
+.env

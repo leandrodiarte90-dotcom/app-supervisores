@@ -1,0 +1,5 @@
+supervisores.db
+__pycache__/
+*.pyc
+evidencias_supervisores/
+exports_supervisores/
